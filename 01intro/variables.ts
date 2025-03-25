@@ -19,6 +19,14 @@ userId.toFixed()
 // ------------ BOOLEAN -----------
 let isLoggedIn: boolean = false;
 
-// ------------  ------------
+// ------------ ANY ------------
+// Wenn TypeScript nicht weiß, welchen Type eine Variable hat oder haben wird, bekommt es bei default "any". "Any" will man aber nicht haben. Weil man dann auch Js nutzen könnte.
+let hero;
+
+function getHero() {
+    return "Thor"
+}
+
+hero = getHero()
 
 console.log(greetings);
