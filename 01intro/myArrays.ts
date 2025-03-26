@@ -32,5 +32,3 @@ allHeros.push({name: "Batman", place: "Gotham"}, {name: "Superman", place: "Metr
 
 console.log(allHeros);
 
-
-
