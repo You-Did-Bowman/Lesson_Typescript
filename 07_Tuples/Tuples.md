@@ -1,5 +1,5 @@
 # <span style="color: lightcoral"> Tuples
-In TypeScript sind Tuples eine Möglichkeit, ein Array mit einer festen Anzahl von Elementen zu definieren, bei dem jedes Element einen spezifischen Typ hat. Im Gegensatz zu normalen Arrays, bei denen alle Elemente denselben Typ haben, kannst du in einem Tuple unterschiedliche Datentypen kombinieren.
+In TypeScript sind Tuples eine Möglichkeit, ein Array mit einer festen Anzahl von Elementen zu definieren, bei dem jedes Element einen spezifischen Typ hat. Im Gegensatz zu normalen Arrays, bei denen alle Elemente denselben Typ haben, kann man in einem Tuple unterschiedliche Datentypen kombinieren.
 
 ## <span style="color: lightgreen"> Syntax eines Tuples
 ```ts
@@ -10,7 +10,7 @@ let person: [string, number] = ["Alice", 30];
 Hier darf das erste Element nur ein `string` und das zweite nur eine `number` sein.
 
 ## <span style="color: lightgreen"> Typische Anwendungsfälle von Tuples
-1. **Fixe Datenstrukturen:** Wenn du genau weißt, wie viele Werte und welche Typen du speichern möchtest (z. B. Koordinaten oder API-Antworten).
+1. **Fixe Datenstrukturen:** Wenn man genau weiß, wie viele Werte und welche Typen man speichern möchte (z. B. Koordinaten oder API-Antworten).
 
 2. **Rückgabewerte von Funktionen:** Wenn eine Funktion mehrere Werte unterschiedlicher Typen zurückgeben soll.
 
