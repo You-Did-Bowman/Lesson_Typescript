@@ -1,6 +1,7 @@
 # Lesson: Typescript
 
-This Project is written
+#### Disclaimer:
+I chose to write my TypeScript notes in German to reinforce my understanding by using my native language. This approach helps me grasp complex concepts more thoroughly and allows me to refer back to the notes quickly and effectively.
 
 ## Inhalt:
 
@@ -14,5 +15,8 @@ This Project is written
 |[Tulpes](./06_Tuples/Tuples.md)|Tulpes - mit Anwendungsbeispielen|
 
 
-https://www.youtube.com/watch?v=30LWjhZzg50
-https://www.typescriptlang.org/docs/
+## Quellen
+
+- [Learn TypeScript - Full Tutorial](https://www.youtube.com/watch?v=30LWjhZzg50) - freeCodeCamp
+
+- [TypeScript Documentation](https://www.typescriptlang.org/docs/)
