@@ -92,7 +92,3 @@ if (typeof data === "object" && data !== null && "name" in data) {
   console.log((data as { name: string }).name); // "Max"
 }
 ```
-
-## <span style="color: lightgreen">
-
-## <span style="color: lightgreen">
