@@ -22,7 +22,7 @@ const frodo = Fellowship.HOBBIT;
 enum Nicknames {
     DANIELA = "Dani",
     ALEXANDER = "Alex",
-    SEBASTIAN, 
+    // SEBASTIAN, 
 }
 
 const daniela = Nicknames.DANIELA;
