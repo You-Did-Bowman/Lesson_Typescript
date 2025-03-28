@@ -20,3 +20,9 @@ I chose to write my TypeScript notes in German to reinforce my understanding by 
 - [Learn TypeScript - Full Tutorial](https://www.youtube.com/watch?v=30LWjhZzg50) - freeCodeCamp
 
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
+
+<!-- 
+# <span style="color: lightcoral">
+## <span style="color: lightgreen">
+### <span style="color: lightblue">
+ -->
