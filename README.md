@@ -13,6 +13,9 @@ I chose to write my TypeScript notes in German to reinforce my understanding by 
 |[Objekte](./04_Objects/Objects.md)| Objekte und Strukturen|
 |[Union](./05_Union/Union.md)|Union - mit Anwendungsbeispielen|
 |[Tulpes](./06_Tuples/Tuples.md)|Tulpes - mit Anwendungsbeispielen|
+|[Enums](./07_Enums/Enums.md)|Enums - mit Anwendungsbeispielen|
+|[Interfaces](./08_Interfaces/Interfaces.md)| Interfaces - und Unterschiede zu `type`
+|[Projekt Setup](./09_TS%20Setup/TS-Setup.md)|Setup ein TS-Projekt
 
 
 ## Quellen
