@@ -41,7 +41,6 @@ class Animal {
 }
 
 /* ------------ Inheritance ------------------ */
-
 // private props werden nicht vererbt
 class SubUser extends User {
   isFamily: boolean = true;

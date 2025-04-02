@@ -15,11 +15,11 @@ npm init -y
 - Diese Datei bestimmt, wie TypeScript den Code kompiliert (z. B. JavaScript-Version, Modul-Typ, Fehlerprüfungen).
 
 ```zsh
-npm tsc --init
+tsc --init
 ```
 
 ## <span style="color: lightgreen">3. `tsconfig.json` anpassen
-Nach dem Befehl `npx tsc --init` wird eine `tsconfig.json` mit vielen Optionen erstellt. Man kann einige davon anpassen:
+Nach dem Befehl `tsc --init` wird eine `tsconfig.json` mit vielen Optionen erstellt. Man kann einige davon anpassen:
 
 ```json
 {
@@ -73,5 +73,5 @@ mein-ts-projekt/
 In `src/index.ts` kann nun mit dem Schreiben des Programms begonnen werden. Wenn man in ter `tsconfig.json`-Datei bereits den `watch: true` aka den Watch-Mode eingestellt hat, generiert sich die `.js`-Datei von selber. Wenn dies nicht erfolgt ist, muss er manuell angestellt werden:
 
 ```zsh
-npm tsc --watch
+tsc --watch
 ```
