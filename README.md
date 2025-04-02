@@ -16,6 +16,7 @@ I chose to write my TypeScript notes in German to reinforce my understanding by 
 |[Enums](./07_Enums/Enums.md)|Enums - mit Anwendungsbeispielen|
 |[Interfaces](./08_Interfaces/Interfaces.md)| Interfaces - und Unterschiede zu `type`
 |[Projekt Setup](./09_TS%20Setup/TS-Setup.md)|Setup ein TS-Projekt
+|[Classes](./10_Classes/Classes.md)|Klassen - mit Shortcut Version
 
 
 ## Quellen
