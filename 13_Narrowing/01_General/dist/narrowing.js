@@ -26,4 +26,4 @@ function provideId(id) {
 }
 console.log("ID:", provideId("123"));
 console.log();
-console.log(provideId());
+console.log(provideId(null));
