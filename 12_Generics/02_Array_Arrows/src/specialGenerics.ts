@@ -1,4 +1,4 @@
-let products: [] = [
+let products: string[] = [
     "apple", "peach", "strawberry", "melon"
 ]
 
