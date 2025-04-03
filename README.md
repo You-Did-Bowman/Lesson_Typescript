@@ -18,7 +18,8 @@ I chose to write my TypeScript notes in German to reinforce my understanding by 
 |[Projekt Setup](./09_TS%20Setup/TS-Setup.md)|Setup ein TS-Projekt
 |[Classes](./10_Classes/Classes.md)|Klassen - mit Shortcut Version, abstract classes
 |[Getter und Setter](./11_Getter_und_Setter/Getter%20und%20Setter.md)|Getter und Setter
-|[Generics](./12_Generics/Generics.md)|
+|[Generics](./12_Generics/Generics.md)| Allgemein, Arrays, Arrow functions und Classes
+|[Narrowing](./13_Narrowing/Narrowing.ts)|
 
 
 ## Quellen
